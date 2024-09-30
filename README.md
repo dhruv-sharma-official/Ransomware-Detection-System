@@ -2,7 +2,7 @@
 
 This project is a Python-based tool designed to monitor the entire system for ransomware-related activities. It detects suspicious file changes, tracks potential ransomware processes, and interacts with the user to either quarantine or terminate harmful files and processes. This tool is designed to provide robust protection against ransomware attacks and other malicious encryption behaviors.
 
-Key Features:
+# Key Features:
 
 Real-time System Monitoring: Monitors system-wide file changes and process activities.
 
@@ -16,7 +16,7 @@ Customizable Extensions: Detects known ransomware file extensions and can be ext
 
 Log Management: Maintains a detailed log of suspicious activity and allows users to save the logs for future analysis.
 
-How It Works:
+# How It Works:
 
 Honey Files: The tool creates hidden honey files in your system. If these files are accessed, the tool raises an alarm, as ransomware often accesses many files in bulk.
 
