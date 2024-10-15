@@ -1,0 +1,19 @@
+# Core Python libraries (included for completeness)
+datetime
+os
+time
+threading
+shutil
+hashlib
+json
+scikit-learn
+
+# Third-party libraries
+paramiko==2.7.2
+schedule==1.1.0
+icecream==2.1.3
+watchdog==2.1.6
+plyer==2.0.0
+
+# GUI library (usually comes with Python, but listed for clarity)
+tkinter
