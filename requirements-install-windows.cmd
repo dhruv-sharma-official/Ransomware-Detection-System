@@ -1,0 +1,10 @@
+pip install watchdog
+pip install plyer
+pip install psutil
+pip install icecream
+pip install paramiko
+pip install pefile
+pip install scikit-learn
+pip install numpy
+pip install pickle
+pip install hashlib
